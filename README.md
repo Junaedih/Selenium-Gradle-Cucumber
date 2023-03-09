@@ -1,3 +1,3 @@
-# Selenium-Gradle-Cucumber
-Web UI Automation Framework Test, using Cucumber, Java, Gradle, Selenium
+# Web UI Automation Test Framework
+Using Cucumber, Java, Gradle, Selenium
 
