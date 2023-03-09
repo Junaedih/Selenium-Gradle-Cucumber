@@ -1,5 +1,5 @@
 # Web UI Automation Test Framework
-##Kerangka pengujian UI Web menggunakan Cucumber, Java, Gradle, Selenium Web Driver
+## Kerangka pengujian UI Web menggunakan Cucumber, Java, Gradle, Selenium Web Driver
 
 Project Gradle dengan konfigurasi dependensi Cucumber, Selenium, dan JUnit.
 Menerapkan pola object page, dimana setiap halaman web dari aplikasi yang diuji direpresentasikan sebagai class Java yang terpisah. 
