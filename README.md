@@ -23,18 +23,18 @@ Running Cucumber Test
 
 Class berisi semua pencari lokasi dan metode yang diperlukan untuk berinteraksi dengan elemen di halaman tersebut. Script test case  menggunakan Gherkin syntax, yang merupakan format bahasa alami untuk menggambarkan test. 
 
-Object Page Model
+### Object Page Model
 ![Img 1](screenshot/objectPageModel.PNG)
 
 
 Test case menjelaskan perilaku yang diharapkan dari aplikasi dalam hal fitur dan persyaratannya
 
-#### Menggunakan Cucumber library untuk mendukung kasus pengujian Gherkin, menjalankannya, dan membuat laporan.
+## Menggunakan Cucumber library untuk mendukung kasus pengujian Gherkin, menjalankannya, dan membuat laporan.
 
 Test case pengujian otomatis mencakup tests positif (positive), negatif (negative), dan batas (boundaries).
 Memverifikasi fungsionalitas aplikasi, memeriksa apakah aplikasi berperilaku seperti yang diharapkan dalam skenario yang berbeda. 
 
-Gherkin
+### Gherkin
 ![Img 1](screenshot/Gherkin.PNG)
 
 
