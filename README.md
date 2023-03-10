@@ -1,5 +1,17 @@
 # Web UI Automation Test Framework
-## Kerangka pengujian UI Web menggunakan Cucumber, Java, Gradle, Selenium Web Driver
+
+### _Framework yang sangat memudahkan kita untuk menjalankan Test Scenario pada sebuah Applikasi Web Base (dalam study kasus ini : "https://www.saucedemo.com/"_
+### _Hanya satu kali click kita bisa menjalankan puluhan test scenario bahkan ratusan test scenario yang berjalan secara automatis. Sangat menghemat waktu dan lebih akurasi dibandingkan kita harus menjalankan test scenario secara manual_
+
+### _Setelah running test selesai, kita dapat langsung melihat report nya. [Contoh report bisa dilihat disini](http://localhost:63342/Selenium-Gradle-Cucumber-2/reports/cucumber.html?_ijt=pvr75ea2asvhjagbv2a3ptspgh&_ij_reload=RELOAD_ON_SAVE)_ 
+http://localhost:63342/Selenium-Gradle-Cucumber-2/reports/cucumber.html?_ijt=pvr75ea2asvhjagbv2a3ptspgh&_ij_reload=RELOAD_ON_SAVE
+
+
+
+
+
+
+Kerangka pengujian UI Web menggunakan Cucumber, Java, Gradle, Selenium Web Driver_
 
 Project Gradle dengan konfigurasi dependensi Cucumber, Selenium, dan JUnit.
 Menerapkan pola object page, dimana setiap halaman web dari aplikasi yang diuji direpresentasikan sebagai class Java yang terpisah. 
@@ -21,6 +33,23 @@ menjelaskan penerapan kerangka uji UI Web menggunakan Cucumber, Java, Gradle, da
 Repositori berisi kode sumber untuk framework, implementasi Page Object Model, test case Gherkin, dan implementasi Cucumber.
 Selain itu, repositori harus menyertakan kasus uji sampel untuk mendemonstrasikan fungsionalitas dari framework.
 
+### Build Gradle
+![Img 1](screenshot/buildGradle.PNG)
+
+### Gherkin
+![Img 1](screenshot/Gherkin.PNG)
+
+### Object Page Model
+![Img 1](screenshot/objectPageModel.PNG)
+
+### Running Cucumber Test
+![Img 1](screenshot/runningCucumberTest.PNG)
+
+### Step Definition
+![Img 1](screenshot/stepDefinition.PNG)
+
+### View Cucumber Report
+![Img 1](screenshot/viewReportCucumber.PNG)
 
 
 
