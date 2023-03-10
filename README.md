@@ -8,10 +8,13 @@
 ![Img 1](screenshot/runningCucumberTest.PNG)
 
 
-Kerangka pengujian UI Web menggunakan :
-- Cucumber, 
-- Java, 
-- Gradle, Selenium Web Driver_
+#### Kerangka pengujian UI Web menggunakan :
+- Cucumber
+- Java, JUnit
+- Gradle
+- Selenium Web Driver
+- InteliJIDEA
+- Browser Google Chrome
 
 Project Gradle dengan konfigurasi dependensi Cucumber, Selenium, dan JUnit.
 Menerapkan pola object page, dimana setiap halaman web dari aplikasi yang diuji direpresentasikan sebagai class Java yang terpisah. 
