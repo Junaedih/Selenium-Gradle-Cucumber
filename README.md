@@ -8,18 +8,16 @@
 ![Img 1](screenshot/runningCucumberTest.PNG)
 
 
-### Kerangka pengujian UI Web menggunakan :
+## Kerangka pengujian UI Web menggunakan :
 - Cucumber
 - Java, JUnit
 - Gradle
 - Selenium Web Driver
-- InteliJIDEA
+- IntelliJ IDEA
 - Browser Google Chrome
 
-Project Gradle dengan konfigurasi dependensi Cucumber, Selenium, dan JUnit.
-Menerapkan pola object page, dimana setiap halaman web dari aplikasi yang diuji direpresentasikan sebagai class Java yang terpisah. 
-
-Class berisi semua pencari lokasi dan metode yang diperlukan untuk berinteraksi dengan elemen di halaman tersebut. Script test case  menggunakan Gherkin syntax, yang merupakan format bahasa alami untuk menggambarkan tes. 
+## Menerapkan pola object page, dimana setiap halaman web dari aplikasi yang diuji direpresentasikan sebagai class Java yang terpisah. 
+Class berisi semua pencari lokasi dan metode yang diperlukan untuk berinteraksi dengan elemen di halaman tersebut. Script test case  menggunakan Gherkin syntax, yang merupakan format bahasa alami untuk menggambarkan test. 
 
 Test case menjelaskan perilaku yang diharapkan dari aplikasi dalam hal fitur dan persyaratannya
 Menggunakan Cucumber library untuk mendukung kasus pengujian Gherkin, menjalankannya, dan membuat laporan.
