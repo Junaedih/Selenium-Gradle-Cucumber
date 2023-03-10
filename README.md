@@ -4,7 +4,7 @@
 #### _Hanya satu kali click kita bisa menjalankan puluhan test scenario bahkan ratusan test scenario yang berjalan secara automatis. Sangat menghemat waktu dan lebih akurasi dibandingkan kita harus menjalankan test scenario secara manual, setelah running test selesai, kita dapat langsung melihat report nya._ 
 
 
-#Running Cucumber Test
+# Running Cucumber Test
 ![Img 1](screenshot/runningCucumberTest.PNG)
 
 
