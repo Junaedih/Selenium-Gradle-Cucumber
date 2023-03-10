@@ -37,19 +37,11 @@ Memverifikasi fungsionalitas aplikasi, memeriksa apakah aplikasi berperilaku sep
 
 
 Repositori berisi kode sumber untuk framework, implementasi Page Object Model, test case Gherkin, dan implementasi Cucumber.
-Selain itu, repositori harus menyertakan kasus uji sampel untuk mendemonstrasikan fungsionalitas dari framework.
+Selain itu, repositori menyertakan kasus uji sampel untuk mendemonstrasikan fungsionalitas dari framework.
 
 ### Build Gradle
 ![Img 1](screenshot/buildGradle.PNG)
 
-### Gherkin
-![Img 1](screenshot/Gherkin.PNG)
-
-### Object Page Model
-![Img 1](screenshot/objectPageModel.PNG)
-
-### Running Cucumber Test
-![Img 1](screenshot/runningCucumberTest.PNG)
 
 ### Step Definition
 ![Img 1](screenshot/stepDefinition.PNG)
