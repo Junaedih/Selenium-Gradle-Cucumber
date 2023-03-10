@@ -21,6 +21,6 @@ menjelaskan penerapan kerangka uji UI Web menggunakan Cucumber, Java, Gradle, da
 Repositori berisi kode sumber untuk framework, implementasi Page Object Model, test case Gherkin, dan implementasi Cucumber.
 Selain itu, repositori harus menyertakan kasus uji sampel untuk mendemonstrasikan fungsionalitas dari framework.
 
-
+![Img 1](screenshot/buildGradle.PNG)
 
 
