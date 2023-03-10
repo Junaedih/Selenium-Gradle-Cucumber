@@ -1,17 +1,11 @@
 # Web UI Automation Test Framework
 
-### _Framework yang sangat memudahkan kita untuk menjalankan Test Scenario pada sebuah Applikasi Web Base (dalam study kasus ini : "https://www.saucedemo.com/"_
-### _Hanya satu kali click kita bisa menjalankan puluhan test scenario bahkan ratusan test scenario yang berjalan secara automatis. Sangat menghemat waktu dan lebih akurasi dibandingkan kita harus menjalankan test scenario secara manual_
-
-### _Setelah running test selesai, kita dapat langsung melihat report nya. [Contoh report bisa dilihat disini](http://localhost:63342/Selenium-Gradle-Cucumber-2/reports/cucumber.html?_ijt=pvr75ea2asvhjagbv2a3ptspgh&_ij_reload=RELOAD_ON_SAVE)_ 
-http://localhost:63342/Selenium-Gradle-Cucumber-2/reports/cucumber.html?_ijt=pvr75ea2asvhjagbv2a3ptspgh&_ij_reload=RELOAD_ON_SAVE
+#### _Framework yang sangat memudahkan kita untuk menjalankan Test Scenario pada sebuah Applikasi Web Base (dalam study kasus ini : "https://www.saucedemo.com/"_
+#### _Hanya satu kali click kita bisa menjalankan puluhan test scenario bahkan ratusan test scenario yang berjalan secara automatis. Sangat menghemat waktu dan lebih akurasi dibandingkan kita harus menjalankan test scenario secara manual, setelah running test selesai, kita dapat langsung melihat report nya._ 
 
 
 
-
-
-
-Kerangka pengujian UI Web menggunakan Cucumber, Java, Gradle, Selenium Web Driver_
+_Kerangka pengujian UI Web menggunakan Cucumber, Java, Gradle, Selenium Web Driver_
 
 Project Gradle dengan konfigurasi dependensi Cucumber, Selenium, dan JUnit.
 Menerapkan pola object page, dimana setiap halaman web dari aplikasi yang diuji direpresentasikan sebagai class Java yang terpisah. 
