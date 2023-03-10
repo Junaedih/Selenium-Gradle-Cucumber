@@ -44,6 +44,6 @@ Selain itu, repositori harus menyertakan kasus uji sampel untuk mendemonstrasika
 
 ### View Cucumber Report
 ![Img 1](screenshot/viewReportCucumber.PNG)
-
+![Img 1](screenshot/resultReport.PNG)
 
 
