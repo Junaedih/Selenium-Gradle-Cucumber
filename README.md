@@ -4,6 +4,8 @@
 ### _Hanya satu kali click kita bisa menjalankan puluhan test scenario bahkan ratusan test scenario yang berjalan secara automatis. Sangat menghemat waktu dan lebih akurasi dibandingkan kita harus menjalankan test scenario secara manual_
 
 ### _Setelah running test selesai, kita dapat langsung melihat report nya. [Contoh report bisa dilihat disini](http://localhost:63342/Selenium-Gradle-Cucumber-2/reports/cucumber.html?_ijt=pvr75ea2asvhjagbv2a3ptspgh&_ij_reload=RELOAD_ON_SAVE)_ 
+http://localhost:63342/Selenium-Gradle-Cucumber-2/reports/cucumber.html?_ijt=pvr75ea2asvhjagbv2a3ptspgh&_ij_reload=RELOAD_ON_SAVE
+
 
 
 
