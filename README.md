@@ -19,6 +19,10 @@
 ## Menerapkan pola object page, dimana setiap halaman web dari aplikasi yang diuji direpresentasikan sebagai class Java yang terpisah. 
 Class berisi semua pencari lokasi dan metode yang diperlukan untuk berinteraksi dengan elemen di halaman tersebut. Script test case  menggunakan Gherkin syntax, yang merupakan format bahasa alami untuk menggambarkan test. 
 
+
+### Object Page Model
+![Img 1](screenshot/objectPageModel.PNG)
+
 Test case menjelaskan perilaku yang diharapkan dari aplikasi dalam hal fitur dan persyaratannya
 Menggunakan Cucumber library untuk mendukung kasus pengujian Gherkin, menjalankannya, dan membuat laporan.
 
