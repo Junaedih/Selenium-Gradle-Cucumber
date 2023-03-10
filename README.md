@@ -4,7 +4,7 @@
 #### _Hanya satu kali click kita bisa menjalankan puluhan test scenario bahkan ratusan test scenario yang berjalan secara automatis. Sangat menghemat waktu dan lebih akurasi dibandingkan kita harus menjalankan test scenario secara manual, setelah running test selesai, kita dapat langsung melihat report nya._ 
 
 
-## Running Cucumber Test
+### Running Cucumber Test
 ![Img 1](screenshot/runningCucumberTest.PNG)
 
 
@@ -22,7 +22,7 @@
 
 Class berisi semua pencari lokasi dan metode yang diperlukan untuk berinteraksi dengan elemen di halaman tersebut. Script test case  menggunakan Gherkin syntax, yang merupakan format bahasa alami untuk menggambarkan test. 
 
-## Object Page Model
+### Object Page Model
 ![Img 1](screenshot/objectPageModel.PNG)
 
 
