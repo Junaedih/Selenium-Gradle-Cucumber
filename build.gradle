@@ -43,7 +43,7 @@ task cucumber() {
             args = [
                     '--plugin', 'html:reports/index.html',
                     '--plugin', 'pretty',
-                    '--glue', 'com.aditya',
+                    '--glue', 'com.jun',
                     '--tags', "${tags}",
                     'src/test/resources'
             ]
