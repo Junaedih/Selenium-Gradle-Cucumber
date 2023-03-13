@@ -16,7 +16,7 @@ on:
 
 
 jobs:
-  run-automation-test:
+  run-automation-test_web-ui:
 
     runs-on: ubuntu-latest
 
