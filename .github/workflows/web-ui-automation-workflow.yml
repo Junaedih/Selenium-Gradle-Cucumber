@@ -16,7 +16,7 @@ on:
 
 
 jobs:
-  build:
+  run-automation-test:
 
     runs-on: ubuntu-latest
 
@@ -41,7 +41,26 @@ jobs:
       
     # execute gradle command for running cucumber test
     - name : Execute Test
-      run : ./gradlew Cucumber
+      run : ./gradlew cucumber
+    
+    # archive test result
+    - name : Archive Test Result
+      uses: actions/upload-artifact@v3.1.2
+      if: always()
+      with :
+       name : Cucumber Report
+       path : reports
+       
+   # deploy ke github pages
+    - name: GitHub Pages action
+      if : always()
+      uses: peaceiris/actions-gh-pages@v3.9.2
+      with :
+       PERSONAL_TOKEN : ${{ secrets.GITHUB_TOKEN}}
+       PUBLISH_DIR : reports
+
+       
+
     
     
   
