@@ -29,8 +29,11 @@ jobs:
         distribution: 'temurin'
         
     #install browser
-    - name : setup browser
-      uses : browser-action/setup-crhome@v.0.0.0
+    
+    - name: Setup Chrome
+      uses: browser-actions/setup-chrome@v1.1.0
+
+    
       
     #install gradlew
     - name : setup gradlew
