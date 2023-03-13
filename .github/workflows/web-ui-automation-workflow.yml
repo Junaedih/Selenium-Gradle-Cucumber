@@ -52,16 +52,19 @@ jobs:
        path : reports
        
    # deploy ke github pages
-   # - name: GitHub Pages action
-   #   if : always()
-   #   uses: peaceiris/actions-gh-pages@v3.9.2
-   #   with :
+    - name: GitHub Pages action
+      if : always()
+      uses: peaceiris/actions-gh-pages@v3.9.2
+      with :
+       personal_token : ${{ secrets.github_token }}
+       publish_dir : reports
+      
    #    PERSONAL_TOKEN : ${{ secrets.GITHUB_TOKEN}}
    #    PUBLISH_DIR : reports
-
+   #    personal_token: # optional
+   #    publish_dir: # optional, default is public
        
 
-    
     
   
     
